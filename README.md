@@ -1,6 +1,6 @@
 # Clone-Spotify
 
-Projeto web que consiste ser apenas a tela do Sportify
+Projeto web que consiste ser apenas o clone da tela do Sportify
 
 Tecnologias: HTML - CSS
 
